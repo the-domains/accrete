@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[accrete]]></title>
         <description><![CDATA[accrete]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/accrete/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 18:09:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 20:06:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/accrete/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Testing again...first post was epic fail. I had clicked "Add Image" at 0935 and as of 1000 it stated "Processing item.." STILL!! I will attempt again. What is taking place now as I type is the [backspace] key was not being recognized in the web ap (I switched to using Edge as my main browser so Chrome extension for the.grid is no a first choice) ...FINALLY the backspace key on my keyboard is recognized. Again, "A.I." ?? Hummm..</p>]]></description>
+            <link>https://thegrid.ai/accrete/80555c4e-5449-4770-a4fa-1f01fcecd859/index.html</link>
+            <guid isPermaLink="false">80555c4e-5449-4770-a4fa-1f01fcecd859</guid>
+            <pubDate>Tue, 05 Jan 2016 20:06:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>From the WET! Coast of Oregon...</p>]]></description>
-            <link>undefinede530c5c5-2707-4286-9dee-3dfd465ab3ea/index.html</link>
+            <link>https://thegrid.ai/accrete/e530c5c5-2707-4286-9dee-3dfd465ab3ea/index.html</link>
             <guid isPermaLink="false">e530c5c5-2707-4286-9dee-3dfd465ab3ea</guid>
             <pubDate>Tue, 05 Jan 2016 18:08:54 GMT</pubDate>
         </item>
